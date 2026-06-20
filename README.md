@@ -9,3 +9,4 @@ When you use the command netwux.web , the terminal will be like a search bar of 
 The links can be found by searching netwux.archive.files
 
 ALL THE PAGES ARE AVIABLE TO SEE AND DOWNLOAD ON netwux-adrrs-official
+https://github.com/NetWin22/netwux-addrs-official.git
